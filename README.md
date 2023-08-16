@@ -1,10 +1,11 @@
 ### Hi there 👋 
 
 I'm Yohana Marlina, An Ethnomusicologist, <br />
-I’m currently learning about front-end development,
-And I’m looking for help with some code that i write might not look clean,
+I’m currently learning about front-end development, <br />
+And I’m looking for help with some code I've written that might not look clean, <br />
 You can reach me via email or instagram.
 
+<!--
 **Yohanamarlina/Yohanamarlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
