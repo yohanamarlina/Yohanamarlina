@@ -4,7 +4,7 @@ I'm Yohana Marlina, An Ethnomusicologist,
 I’m currently learning about front-end development,
 And I’m looking for help with some code that i write might not look clean,
 You can reach me via email or instagram.
-<!--
+
 **Yohanamarlina/Yohanamarlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
