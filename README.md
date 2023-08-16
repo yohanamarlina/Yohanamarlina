@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Yohana Marlina, An Ethnomusicologist,
+I'm Yohana Marlina, An Ethnomusicologist, <br />
 I’m currently learning about front-end development,
 And I’m looking for help with some code that i write might not look clean,
 You can reach me via email or instagram.
