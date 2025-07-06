@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 I'm Yohana Marlina, An Ethnomusicologist, <br />
-I’m currently learning about front-end development, <br />
+I’m currently learning about UI Design and front-end development, <br />
 And I’m looking for help with some code I've written that might not look clean, <br />
 You can reach me via email or instagram.
 
